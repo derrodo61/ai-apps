@@ -1,4 +1,4 @@
-# List of my LLM powered apps by Rolf Dohrmann
+# List of LLM powered apps by Rolf Dohrmann
 
 The followings apps are created with LangChain and Streamlit-
 
